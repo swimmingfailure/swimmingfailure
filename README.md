@@ -1,4 +1,4 @@
-### I like this guy, he's a reeaal ignoramus. Let's be friends with him!
+### I like this guy, he's a real ignoramus. Let's be friends with him!
 
 
 This is my GitHub. It has some code.
