@@ -1,11 +1,9 @@
-### Hey
+### I like this guy, he's a reeaal ignoramus. Let's be friends with him!
+
 
 This is my GitHub. It has some code.
 
 [This](https://swimmingfailure.com/) is my website. It has other stuff.
-
-
-I like this guy, he's a reeaal ignoramus. Let's be friends with him! -Ice King
 
 
 <!--
